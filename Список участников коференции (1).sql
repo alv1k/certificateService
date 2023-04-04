@@ -1,0 +1,16 @@
+﻿CREATE TABLE nojab5(Column_1 VARCHAR(10),Column_2 VARCHAR(10),Column_3 VARCHAR(10));
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Алексеев    ','Эрхан','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Аматов','Абубакр','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Аматова','Фатима','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Ангахаев','Артем','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Андреев','Эрдэм','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Асаев',' Дмитрий','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Аюшеев','Очир','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Аюшеева','София','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Аюшиева',' Бальжина','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Бакаев',' Нурсултан','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Будилка',' Артем','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Волков',' Степан','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Воробьев',' Мирон','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Гаджиев',' Денез','Алексеева');
+INSERT INTO nojab5 (Column_1,Column_2,Column_3) VALUES ('Гомбожапов ','Жамсо','Алексеева');
