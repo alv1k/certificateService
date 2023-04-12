@@ -21,3 +21,4 @@ INSERT INTO table_name (Column_1,Column_2,Column_3,Column_4) VALUES ('Горох
 INSERT INTO table_name (Column_1,Column_2,Column_3,Column_4) VALUES ('Гунзенов Алдар Станиславович','06/13/2012','05/31/2022',9);
 INSERT INTO table_name (Column_1,Column_2,Column_3,Column_4) VALUES ('Гунзенова Аяна Станиславовна','11/22/2013','05/31/2022',8);
 INSERT INTO table_name (Column_1,Column_2,Column_3,Column_4) VALUES ('Дашеев Максим Жаргалович','08/14/2014','05/31/2022',7);
+123
